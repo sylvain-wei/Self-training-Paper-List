@@ -34,12 +34,6 @@ This repository organizes recent research papers on LLM self-training, particula
 - **Paper:** [arXiv:2502.12565](https://arxiv.org/abs/2502.12565)
 - **Code:** TBA
 
-**Training with Pseudo-Code for Instruction Following**
-- **Authors:** Prince Kumar, Rudra Murthy, Riyaz Bhat, Danish Contractor
-- **Venue:** arXiv:2505.18011v1 (May 2025)
-- **Core Contribution:** Enhances LLM instruction-following by rewriting natural language instructions as LLM-generated pseudo-code for fine-tuning
-- **Paper:** [arXiv:2505.18011](https://arxiv.org/abs/2505.18011)
-- **Code:** TBA
 
 #### 🛡️ Robustness & Self-Correction
 
