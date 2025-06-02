@@ -21,7 +21,7 @@ This repository organizes recent research papers on LLM self-training, particula
 #### 📖 Data Selection & Quality Control
 
 **Self-training Large Language Models through Knowledge Detection**
-- **Authors:** Yeo Wei Jie, Teddy Ferdinan, Przemyslaw Kazienko, Ranjan Satapathy, Erik Cambria
+- **Authors:** Wei Jie Yeo, Teddy Ferdinan, Przemyslaw Kazienko, Ranjan Satapathy, Erik Cambria
 - **Venue:** Findings of EMNLP 2024
 - **Core Contribution:** Proposes a self-training paradigm where LLMs autonomously curate labels and selectively train on unknown data samples identified through reference-free consistency method
 - **Paper:** [arXiv:2406.11275](https://arxiv.org/abs/2406.11275) | [ACL Anthology](https://aclanthology.org/2024.findings-emnlp.883/)
