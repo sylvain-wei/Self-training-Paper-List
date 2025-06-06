@@ -114,6 +114,13 @@ This repository organizes recent research papers on LLM self-training, particula
 - **Paper:** [arXiv:2505.17454](https://arxiv.org/abs/2505.17454)
 - **Code:** TBA
 
+**Self-Boosting Large Language Models with Synthetic Preference Data (SynPO)**
+- **Authors:** Qingxiu Dong, Li Dong, Xingxing Zhang, Zhifang Sui, Furu Wei
+- **Venue:** arXiv:2410.06961 (Oct 2024)
+- **Core Contribution:** Introduces SynPO, a self-boosting paradigm leveraging synthetic preference data for model alignment. Employs iterative mechanism with self-prompt generator and response improver, enabling LLMs to autonomously learn generative rewards without large-scale human annotation
+- **Paper:** [arXiv:2410.06961](https://arxiv.org/abs/2410.06961)
+- **Code:** TBA
+
 ### 4. Self-Training with Reasoning & Internal Mechanisms
 
 #### 🧠 Process-Level & Step-wise Methods
